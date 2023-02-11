@@ -1,0 +1,20 @@
+body {
+    background-color:beige;
+}
+
+.fotomini {
+    width:6em;
+    height:4em;
+    padding:0.5em;
+}
+
+.fotogrande {
+    width:42.5em;
+    height:27em;
+}
+
+#fotos {
+    text-align:center;
+    border:solid 1px black;
+    padding:1em;
+}
